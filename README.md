@@ -26,3 +26,13 @@ Para executar o Dragons Hub, você precisará de um executor de scripts compatí
 ```lua
 -- Execute o Dragons Hub no Omni X
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dragons-Forge/dragons-hub/main/omnix-definitive.lua"))()
+```
+
+## ⚠️ Aviso Legal e Termos de Uso
+
+Este projeto foi desenvolvido estritamente para fins **educacionais e de aprendizado** sobre a linguagem Lua. 
+O uso prolongado ou irresponsável de automações (exploits/scripts) no Roblox pode violar os Termos de Serviço da plataforma e resultar em punições ou banimento da conta. **Utilize por sua própria conta e risco.**
+
+---
+Desenvolvido por **[Dragons-Forge](https://github.com/Dragons-Forge)** 🐉
+```
